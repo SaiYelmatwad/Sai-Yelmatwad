@@ -4,7 +4,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 
 ## 🔭 Projects
 
-- [Project 1]People.ai (https://github.com/dhvani-gupta/People.ai.git) :
+- [Project 1]People.ai  :
 PEOPLE.ai is a smart recruitment system leveraging artificial intelligence (AI) and machine learning (ML) techniques. The system automates various stages of the recruitment process, including candidate sourcing, resume screening, and interview scheduling.
 
 - [Project 2]Kiran Application((https://github.com/mtabishk/sih-2022-team-dsc-miet.git) :
