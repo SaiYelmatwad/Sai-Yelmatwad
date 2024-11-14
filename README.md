@@ -30,7 +30,7 @@ App to enable institutes to make sure that all COVID19 norms are abided.
 
 ## 📫 Contact Me
 
-You can reach me via email at dhvanigupta27@gmail.com or connect with me on https://www.linkedin.com/in/dhvani-gupta-89732a194/
+You can reach me via email at saiyelmatwad@gmail.com or connect with me on https://www.linkedin.com/in/saiyelmatwad/
 
 ## 💬 Let's Connect
 
